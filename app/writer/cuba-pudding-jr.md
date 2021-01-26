@@ -4,4 +4,5 @@
 
 Recipe Picks:
 
+- February: [Quick oatmeal Pancakes](../recipe/feb/quick-oatmeal-pancakes.md)
 - January: [Grilled Peach Salad](../recipe/jan/grilled-peach-salad.md)
